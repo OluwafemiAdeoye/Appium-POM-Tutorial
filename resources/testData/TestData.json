@@ -1,0 +1,46 @@
+{
+  "Login Credentials": [
+    {
+      "validPhoneNumber": "08990001100",
+      "validPin": "1234"
+    },
+    {
+      "validPhoneNumber": "08990001100",
+      "wrongPin": "1345"
+    },
+    {
+      "validPhoneNumber": "08990001100",
+      "emptyPin": ""
+    },
+    {
+      "emptyPhoneNumber": "",
+      "emptyPin": ""
+    },
+    {
+      "emptyNumber": "",
+      "validPin": "1234"
+    },
+    {
+      "wrongPhoneNumber": "07066721842",
+      "wrongPin": "1234"
+    },
+    {
+      "emptyPhoneNumber": "",
+      "wrongPin": "1234"
+    },
+    {
+      "wrongPhoneNumber": "07066721842",
+      "emptyPin": ""
+    }
+  ],
+  "Airtime_Test_Data": [
+    {
+      "validPhoneNumber": "07066721842",
+      "airtimeAmount": "100"
+    },
+    {
+      "emptyPhoneNumber": "",
+      "airtimeAmount": "100"
+    }
+  ]
+}
